@@ -1,0 +1,13 @@
+﻿  pjsua_acc.c
+  pjsua_aud.c
+  pjsua_call.c
+e:\my_ended_projects\client_server_chat\sources\myclient_audio\pjproject-2.9\pjsip\src\pjsua-lib\pjsua_call.c(4323): warning C4102: TODO___HANDLE_FORKED_DIALOG: неиспользованная метка
+  pjsua_core.c
+e:\my_ended_projects\client_server_chat\sources\myclient_audio\pjproject-2.9\pjsip\src\pjsua-lib\pjsua_core.c(2850): warning C4102: TODO___pjsua_transport_set_enable: неиспользованная метка
+  pjsua_dump.c
+  pjsua_im.c
+  pjsua_media.c
+  pjsua_pres.c
+  pjsua_vid.c
+  Создание кода...
+  pjsua_lib.vcxproj -> E:\MY_ENDED_PROJECTS\CLIENT_SERVER_CHAT\sources\myclient_audio\pjproject-2.9\pjsip\build\..\lib\pjsua-lib-i386-Win32-vc14-Release.lib

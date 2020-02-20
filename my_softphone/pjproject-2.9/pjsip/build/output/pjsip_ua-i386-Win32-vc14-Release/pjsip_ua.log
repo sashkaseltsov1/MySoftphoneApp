@@ -1,0 +1,10 @@
+﻿  sip_100rel.c
+  sip_inv.c
+  sip_reg.c
+  sip_replaces.c
+e:\my_ended_projects\client_server_chat\sources\myclient_audio\pjproject-2.9\pjsip\src\pjsip-ua\sip_replaces.c(167): warning C4102: TODO___provide_initialized_flag_for_each_endpoint: неиспользованная метка
+  sip_timer.c
+e:\my_ended_projects\client_server_chat\sources\myclient_audio\pjproject-2.9\pjsip\src\pjsip-ua\sip_timer.c(547): warning C4102: TODO___provide_initialized_flag_for_each_endpoint: неиспользованная метка
+  sip_xfer.c
+  Создание кода...
+  pjsip_ua.vcxproj -> E:\MY_ENDED_PROJECTS\CLIENT_SERVER_CHAT\sources\myclient_audio\pjproject-2.9\pjsip\build\..\lib\pjsip-ua-i386-Win32-vc14-Release.lib

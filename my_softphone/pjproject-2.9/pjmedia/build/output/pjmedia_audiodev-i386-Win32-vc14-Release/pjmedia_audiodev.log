@@ -1,0 +1,10 @@
+﻿  audiodev.c
+  audiotest.c
+  bdimad_dev.c
+  errno.c
+  legacy_dev.c
+  null_dev.c
+  pa_dev.c
+  wmme_dev.c
+  Создание кода...
+  pjmedia_audiodev.vcxproj -> E:\MY_ENDED_PROJECTS\CLIENT_SERVER_CHAT\sources\myclient_audio\pjproject-2.9\pjmedia\build\..\lib\pjmedia-audiodev-i386-Win32-vc14-Release.lib

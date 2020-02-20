@@ -1,0 +1,1 @@
+#   define PJMEDIA_HAS_OPUS_CODEC    1

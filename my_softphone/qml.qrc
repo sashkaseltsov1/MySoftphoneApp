@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LogIn.qml</file>
+        <file>SignUp.qml</file>
+        <file>Config.qml</file>
+        <file>UserWindow.qml</file>
+        <file>FindFriends.qml</file>
+        <file>IFriend.qml</file>
+        <file>MakeConference.qml</file>
+        <file>IConference.qml</file>
+    </qresource>
+</RCC>

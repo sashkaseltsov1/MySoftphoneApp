@@ -1,0 +1,12 @@
+﻿  basic_op.c
+  common.c
+  huff_tab.c
+  tables.c
+  coef2sam.c
+  dct4_s.c
+  decoder.c
+  dct4_a.c
+  encoder.c
+  sam2coef.c
+  Создание кода...
+  libg7221codec.vcxproj -> E:\MY_ENDED_PROJECTS\CLIENT_SERVER_CHAT\sources\myclient_audio\pjproject-2.9\third_party\build\g7221\..\..\lib\libg7221codec-i386-Win32-vc14-Release.lib

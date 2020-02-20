@@ -1,0 +1,14 @@
+﻿  errno.c
+  ice_session.c
+  ice_strans.c
+  nat_detect.c
+  stun_auth.c
+  stun_msg.c
+  stun_msg_dump.c
+  stun_session.c
+  stun_sock.c
+  stun_transaction.c
+  turn_session.c
+  turn_sock.c
+  Создание кода...
+  pjnath.vcxproj -> E:\MY_ENDED_PROJECTS\CLIENT_SERVER_CHAT\sources\myclient_audio\pjproject-2.9\pjnath\build\..\lib\pjnath-i386-Win32-vc14-Release.lib

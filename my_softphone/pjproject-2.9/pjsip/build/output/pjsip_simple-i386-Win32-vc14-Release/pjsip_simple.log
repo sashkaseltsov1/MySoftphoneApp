@@ -1,0 +1,13 @@
+﻿  errno.c
+  evsub.c
+  evsub_msg.c
+  iscomposing.c
+  mwi.c
+  pidf.c
+  presence.c
+  presence_body.c
+  publishc.c
+  rpid.c
+  xpidf.c
+  Создание кода...
+  pjsip_simple.vcxproj -> E:\MY_ENDED_PROJECTS\CLIENT_SERVER_CHAT\sources\myclient_audio\pjproject-2.9\pjsip\build\..\lib\pjsip-simple-i386-Win32-vc14-Release.lib

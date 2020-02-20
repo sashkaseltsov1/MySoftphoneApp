@@ -1,0 +1,10 @@
+﻿  avi_dev.c
+  colorbar_dev.c
+  dshow_dev.c
+  errno.c
+  ffmpeg_dev.c
+  sdl_dev.c
+  videodev.c
+  Создание кода...
+  dshowclasses.cpp
+  pjmedia_videodev.vcxproj -> E:\MY_ENDED_PROJECTS\CLIENT_SERVER_CHAT\sources\myclient_audio\pjproject-2.9\pjmedia\build\..\lib\pjmedia-videodev-i386-Win32-vc14-Release.lib

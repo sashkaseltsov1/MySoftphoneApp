@@ -1,0 +1,11 @@
+﻿  account.cpp
+  call.cpp
+  endpoint.cpp
+  json.cpp
+  media.cpp
+  persistent.cpp
+  presence.cpp
+  siptypes.cpp
+  types.cpp
+  Создание кода...
+  pjsua2_lib.vcxproj -> E:\MY_ENDED_PROJECTS\CLIENT_SERVER_CHAT\sources\myclient_audio\pjproject-2.9\pjsip\build\..\lib\pjsua2-lib-i386-Win32-vc14-Release.lib

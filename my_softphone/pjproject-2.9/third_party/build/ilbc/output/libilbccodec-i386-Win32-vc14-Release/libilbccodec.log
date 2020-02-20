@@ -1,0 +1,27 @@
+﻿  anaFilter.c
+  constants.c
+  createCB.c
+  doCPLC.c
+  enhancer.c
+  filter.c
+  FrameClassify.c
+  gainquant.c
+  getCBvec.c
+  helpfun.c
+  hpInput.c
+  hpOutput.c
+  iCBConstruct.c
+  iCBSearch.c
+  iLBC_decode.c
+  iLBC_encode.c
+  LPCdecode.c
+  LPCencode.c
+  lsf.c
+  packing.c
+  Создание кода...
+  Компиляция...
+  StateConstructW.c
+  StateSearchW.c
+  syntFilter.c
+  Создание кода...
+  libilbccodec.vcxproj -> E:\MY_ENDED_PROJECTS\CLIENT_SERVER_CHAT\sources\myclient_audio\pjproject-2.9\third_party\build\ilbc\..\..\lib\libilbccodec-i386-Win32-vc14-Release.lib

@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/close-outline.png</file>
+        <file>icons/collapse-outline.png</file>
+        <file>icons/expand-outline.png</file>
+        <file>icons/minus-outline.png</file>
+        <file>icons/settings-outline.png</file>
+        <file>icons/logo.png</file>
+        <file>icons/find-person-icon.png</file>
+        <file>icons/person-done.png</file>
+        <file>icons/person-remove.png</file>
+        <file>icons/arrow-right.png</file>
+        <file>icons/minus.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/send-msg.png</file>
+        <file>icons/line.jpg</file>
+        <file>icons/notify-about-msg.png</file>
+        <file>icons/call.png</file>
+        <file>icons/phone.gif</file>
+        <file>icons/off-call.png</file>
+        <file>icons/person.png</file>
+        <file>icons/hangup-call.png</file>
+        <file>icons/call-white.png</file>
+        <file>icons/make-conference.png</file>
+        <file>icons/mic.png</file>
+        <file>icons/speaker.png</file>
+        <file>icons/plus-white.png</file>
+    </qresource>
+</RCC>

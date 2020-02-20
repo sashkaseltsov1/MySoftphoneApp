@@ -1,0 +1,40 @@
+20:33:40.554 sip_endpoint.c  .Module "mod-pjsua-log" registered
+20:33:40.554 sip_endpoint.c  .Module "mod-tsx-layer" registered
+20:33:40.554 sip_endpoint.c  .Module "mod-stateful-util" registered
+20:33:40.554 sip_endpoint.c  .Module "mod-ua" registered
+20:33:40.554 sip_endpoint.c  .Module "mod-100rel" registered
+20:33:40.554 sip_endpoint.c  .Module "mod-pjsua" registered
+20:33:40.554 sip_endpoint.c  .Module "mod-invite" registered
+20:33:40.586     wmme_dev.c  ..WMME found 4 devices:
+20:33:40.586     wmme_dev.c  .. dev_id 0: Wave mapper  (in=2, out=2)
+20:33:40.586     wmme_dev.c  .. dev_id 1: Focusrite USB (Focusrite USB Au  (in=2, out=0)
+20:33:40.586     wmme_dev.c  .. dev_id 2: Focusrite USB (Focusrite USB Au  (in=0, out=2)
+20:33:40.601     wmme_dev.c  .. dev_id 3: Цифровое аудио (S/PDIF) (Устрой  (in=0, out=2)
+20:33:40.601     wmme_dev.c  ..WMME initialized
+20:33:40.601          pjlib  ..select() I/O Queue created (004ED6B4)
+20:33:40.601   conference.c  ..Creating conference bridge with 254 ports
+20:33:40.601   Master/sound  ..Using delay buffer with WSOLA.
+20:33:40.601 sip_endpoint.c  .Module "mod-evsub" registered
+20:33:40.601 sip_endpoint.c  .Module "mod-presence" registered
+20:33:40.601        evsub.c  .Event pkg "presence" registered by mod-presence
+20:33:40.601 sip_endpoint.c  .Module "mod-mwi" registered
+20:33:40.601        evsub.c  .Event pkg "message-summary" registered by mod-mwi
+20:33:40.601 sip_endpoint.c  .Module "mod-refer" registered
+20:33:40.601        evsub.c  .Event pkg "refer" registered by mod-refer
+20:33:40.601 sip_endpoint.c  .Module "mod-pjsua-pres" registered
+20:33:40.601 sip_endpoint.c  .Module "mod-pjsua-im" registered
+20:33:40.601 sip_endpoint.c  .Module "mod-pjsua-options" registered
+20:33:40.601   pjsua_core.c  .1 SIP worker threads created
+20:33:40.601   pjsua_core.c  .pjsua version 2.9 for win32-6.2/i386/msvc-19.1.6 initialized
+20:33:40.601   pjsua_core.c  .PJSUA state changed: CREATED --> INIT
+20:33:40.601   pjsua_core.c  PJSUA state changed: INIT --> STARTING
+20:33:40.601 sip_endpoint.c  .Module "mod-unsolicited-mwi" registered
+20:33:40.601   pjsua_core.c  .PJSUA state changed: STARTING --> RUNNING
+20:34:01.029      systest.c  Running Audio Device List
+20:34:07.117      systest.c  Running Audio Settings
+20:34:20.715      systest.c  Running Audio Device Test
+20:34:20.839     wmme_dev.c   WaveAPI Sound player "Wave mapper" initialized (format=PCM, clock_rate=8000, channel_count=1, samples_per_frame=160 (20ms))
+20:34:20.861     wmme_dev.c   WaveAPI Sound recorder "Wave mapper" initialized (format=PCM, clock_rate=8000, channel_count=1, samples_per_frame=160 (20ms))
+20:34:21.064     wmme_dev.c  WMME playback stream started
+20:34:21.075     wmme_dev.c  WMME capture stream started
+20:34:21.079    audiotest.c   Please wait while test is in progress (~11 secs)..

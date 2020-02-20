@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(initializers.obj) : warning LNK4098: библиотека по умолчанию "libcmt.lib" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+  pjsua.vcxproj -> E:\MY_ENDED_PROJECTS\CLIENT_SERVER_CHAT\sources\myclient_audio\pjproject-2.9\pjsip-apps\build\..\bin\pjsua-i386-Win32-vc14-Release.exe
