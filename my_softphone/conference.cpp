@@ -12,23 +12,7 @@ void Conference::makeConference(QVector<QString> parties)
 {
     for(auto party:parties)
     {
-
-        ConferenceCall *call = new ConferenceCall(*acc);
-        call->setConference(this);
-        call->setCalliedLogin(party);
-        conferenceCalls.append(call);
-        pj::CallOpParam prm(true);
-        pj::SipHeader sipHeader;
-        sipHeader.hName="Subject";
-        sipHeader.hValue="Conference/@@"+confName.toStdString()+"@@"+confCreator.toStdString()+"@@";
-        pj::SipHeaderVector sipHeaderVector;
-        sipHeaderVector.push_back(sipHeader);
-        pj::SipTxOption sipTxOption;
-        sipTxOption.headers=sipHeaderVector;
-        prm.txOption=sipTxOption;
-        prm.opt.audioCount = 1;
-        prm.opt.videoCount = 0;
-        call->makeCall("sip:"+party.toStdString()+"@"+settings->getIp().toStdString()+":"+settings->getSipPort().toStdString(), prm);
+        makeConferenceCall(party);
     }
 }
 
