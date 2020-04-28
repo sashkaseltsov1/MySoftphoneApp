@@ -7,3 +7,12 @@ The app uses PJSUA2 library and opus codec library for implementing VoIP.
 The business logic was written in Qt/C++, the GUI was written in QML.
 
 Its just test version of the app so its need to fix.
+
+Authentification:<br>
+![Farmers Market Finder Demo](demo/authentification.gif)
+
+Calling:<br>
+![Farmers Market Finder Demo](demo/make-call.gif)
+
+Making conference:<br>
+![Farmers Market Finder Demo](demo/make-conference.gif)
